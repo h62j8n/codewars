@@ -1,6 +1,6 @@
 package kyu8;
 
-public class kata01 {
+public class MakeNegative {
 	/* December 3, 2019
 	 * 
 	 * In this simple assignment you are given a number and have to make it negative.

@@ -1,6 +1,6 @@
 package kyu7;
 
-public class SquardDigit {
+public class SquareDigit {
 	/* December 3, 2019
 	 * 
 	 * Welcome. In this kata, you are asked to square every digit of a number.
