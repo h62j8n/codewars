@@ -1,6 +1,6 @@
 package kyu7;
 
-public class getMiddle {
+public class GetMiddle {
 	/* Dec 9, 2019
 	 * 
 	 * You are going to be given a word. Your job is to return the middle character of the word.
